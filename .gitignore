@@ -1,0 +1,8 @@
+secrets.txt
+\venv
+pricetracker_code.py
+prices.csv
+products.csv
+huni.csv
+hunihistory.csv
+__pycache__
