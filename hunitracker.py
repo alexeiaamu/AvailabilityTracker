@@ -19,7 +19,7 @@ password = config['credentials']['password']
 
 
 def get_urls(csv_file):
-    df = pd.read_csv("C:/Users/PyryAamu/Documents/price tracker/huni.csv")
+    df = pd.read_csv("C:/Users//Documents/price tracker/huni.csv")
     return df
 
 
